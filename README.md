@@ -31,7 +31,7 @@
   
 * При тапе на неправильный ответ:  
   
-  1. Объект внутри карточки дергается туда-сюда (easeInMounce)  
+  1. Объект внутри карточки дергается туда-сюда (easeInBounce)  
   
 ![easyInBounce](https://user-images.githubusercontent.com/36508387/121703540-261e7900-cafd-11eb-9290-1e358f186ada.gif)  
   
